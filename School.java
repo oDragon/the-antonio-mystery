@@ -5,7 +5,7 @@ package GUI;
 //                one of each. This commenting can be found in the CasinoDialog
 //                and CasinoClue java files.
 
-import test.testingSchool;
+//import test.testingSchool;
 
 public class School extends javax.swing.JFrame {
 
