@@ -1,12 +1,11 @@
 package GUI;
 
 //IMPORTANT NOTE: Because all the dialog jDialogs and clue jDialogs contain
-
-//import test.testingGreenhouse;
-
 //                relatively the same code, commenting will only be performed on
 //                one of each. This commenting can be found in the CasinoDialog
 //                and CasinoClue java files.
+
+//import test.testingGreenhouse;
 
 public class Greenhouse extends javax.swing.JFrame {
 
