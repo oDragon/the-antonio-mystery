@@ -2,7 +2,7 @@ package GUI;
 
 //IMPORTANT NOTE: Because all the dialog jDialogs and clue jDialogs contain
 
-import test.testingGreenhouse;
+//import test.testingGreenhouse;
 
 //                relatively the same code, commenting will only be performed on
 //                one of each. This commenting can be found in the CasinoDialog
