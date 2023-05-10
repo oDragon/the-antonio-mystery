@@ -1,4 +1,4 @@
-# The Antonio Mystery
+# Install and Play
 
 To run this program, follow the instructions below
 
